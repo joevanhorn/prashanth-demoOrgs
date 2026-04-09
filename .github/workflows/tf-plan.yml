@@ -10,6 +10,8 @@ on:
         type: choice
         options:
           - myorg
+          - source-ps
+          - target-ps
           - production
           - staging
           - development

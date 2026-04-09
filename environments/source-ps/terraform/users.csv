@@ -1,0 +1,51 @@
+email,first_name,last_name,department,title,city,country_code,organization
+alice.anderson@acme-demo.example,Alice,Anderson,Engineering,VP Engineering,New York,US,Acme Corp
+bob.baker@acme-demo.example,Bob,Baker,Engineering,Engineering Manager,New York,US,Acme Corp
+carol.chen@acme-demo.example,Carol,Chen,Engineering,Senior Software Engineer,San Francisco,US,Acme Corp
+david.davis@acme-demo.example,David,Davis,Engineering,Senior Software Engineer,San Francisco,US,Acme Corp
+emma.evans@acme-demo.example,Emma,Evans,Engineering,Software Engineer,London,GB,Acme Corp
+frank.foster@acme-demo.example,Frank,Foster,Engineering,Software Engineer,London,GB,Acme Corp
+grace.green@acme-demo.example,Grace,Green,Engineering,Software Engineer,Tokyo,JP,Acme Corp
+henry.harris@acme-demo.example,Henry,Harris,Engineering,Junior Software Engineer,Tokyo,JP,Acme Corp
+ivy.ingram@acme-demo.example,Ivy,Ingram,Engineering,Systems Administrator,São Paulo,BR,Acme Corp
+jack.johnson@acme-demo.example,Jack,Johnson,Engineering,Systems Administrator,São Paulo,BR,Acme External
+karen.kelly@acme-demo.example,Karen,Kelly,Sales,VP Sales,New York,US,Acme Corp
+liam.lewis@acme-demo.example,Liam,Lewis,Sales,Sales Manager,New York,US,Acme Corp
+mia.martinez@acme-demo.example,Mia,Martinez,Sales,Senior Account Executive,San Francisco,US,Acme Corp
+noah.nguyen@acme-demo.example,Noah,Nguyen,Sales,Senior Account Executive,San Francisco,US,Acme Corp
+olivia.obrien@acme-demo.example,Olivia,OBrien,Sales,Account Executive,London,GB,Acme Corp
+paul.patel@acme-demo.example,Paul,Patel,Sales,Account Executive,London,GB,Acme Corp
+quinn.quigley@acme-demo.example,Quinn,Quigley,Sales,Account Executive,Tokyo,JP,Acme Corp
+ruby.rivera@acme-demo.example,Ruby,Rivera,Sales,Sales Representative,Tokyo,JP,Acme Corp
+sam.silva@acme-demo.example,Sam,Silva,Sales,Sales Representative,São Paulo,BR,Acme Corp
+tina.thompson@acme-demo.example,Tina,Thompson,Sales,Sales Representative,São Paulo,BR,Acme Corp
+uma.underwood@acme-demo.example,Uma,Underwood,Marketing,VP Marketing,New York,US,Acme Corp
+victor.vargas@acme-demo.example,Victor,Vargas,Marketing,Marketing Manager,New York,US,Acme Corp
+wendy.wang@acme-demo.example,Wendy,Wang,Marketing,Senior Marketing Specialist,San Francisco,US,Acme Corp
+xavier.xu@acme-demo.example,Xavier,Xu,Marketing,Senior Marketing Specialist,San Francisco,US,Acme Corp
+yara.young@acme-demo.example,Yara,Young,Marketing,Marketing Specialist,London,GB,Acme Corp
+zoe.zimmer@acme-demo.example,Zoe,Zimmer,Marketing,Marketing Specialist,London,GB,Acme Corp
+aaron.allen@acme-demo.example,Aaron,Allen,Marketing,Marketing Specialist,Tokyo,JP,Acme Corp
+beth.brooks@acme-demo.example,Beth,Brooks,Marketing,Marketing Associate,Tokyo,JP,Acme Corp
+caleb.carter@acme-demo.example,Caleb,Carter,Marketing,Marketing Associate,São Paulo,BR,Acme Corp
+dana.diaz@acme-demo.example,Dana,Diaz,Marketing,Marketing Associate,São Paulo,BR,Acme External
+ethan.ellis@acme-demo.example,Ethan,Ellis,Finance,Chief Financial Officer,New York,US,Acme Corp
+fiona.fisher@acme-demo.example,Fiona,Fisher,Finance,Finance Manager,New York,US,Acme Corp
+george.garcia@acme-demo.example,George,Garcia,Finance,Senior Financial Analyst,San Francisco,US,Acme Corp
+hannah.hill@acme-demo.example,Hannah,Hill,Finance,Senior Financial Analyst,San Francisco,US,Acme Corp
+isaac.iverson@acme-demo.example,Isaac,Iverson,Finance,Financial Analyst,London,GB,Acme Corp
+julia.james@acme-demo.example,Julia,James,Finance,Financial Analyst,London,GB,Acme Corp
+kevin.king@acme-demo.example,Kevin,King,Finance,Financial Analyst,Tokyo,JP,Acme Corp
+laura.lee@acme-demo.example,Laura,Lee,Finance,Accountant,Tokyo,JP,Acme Corp
+mark.moore@acme-demo.example,Mark,Moore,Finance,Accountant,São Paulo,BR,Acme Corp
+nina.nash@acme-demo.example,Nina,Nash,Finance,Accountant,São Paulo,BR,Acme Corp
+oscar.ortiz@acme-demo.example,Oscar,Ortiz,Human Resources,VP People,New York,US,Acme Corp
+piper.parker@acme-demo.example,Piper,Parker,Human Resources,HR Manager,New York,US,Acme Corp
+quincy.quinn@acme-demo.example,Quincy,Quinn,Human Resources,Senior HR Specialist,San Francisco,US,Acme Corp
+rachel.reed@acme-demo.example,Rachel,Reed,Human Resources,Senior HR Specialist,San Francisco,US,Acme Corp
+steve.stone@acme-demo.example,Steve,Stone,Human Resources,HR Specialist,London,GB,Acme Corp
+tara.taylor@acme-demo.example,Tara,Taylor,Human Resources,HR Specialist,London,GB,Acme Corp
+uriah.usher@acme-demo.example,Uriah,Usher,Human Resources,HR Specialist,Tokyo,JP,Acme Corp
+vera.vincent@acme-demo.example,Vera,Vincent,Human Resources,HR Coordinator,Tokyo,JP,Acme Corp
+will.wright@acme-demo.example,Will,Wright,Human Resources,HR Coordinator,São Paulo,BR,Acme Corp
+xena.xander@acme-demo.example,Xena,Xander,Human Resources,HR Coordinator,São Paulo,BR,Acme Corp
