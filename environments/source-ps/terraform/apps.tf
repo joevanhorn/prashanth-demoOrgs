@@ -8,18 +8,19 @@
 
 locals {
   bookmark_apps = {
-    "Acme CRM"         = "https://crm.acme-demo.example"
-    "Acme HR Portal"   = "https://hr.acme-demo.example"
-    "Acme Finance Hub" = "https://finance.acme-demo.example"
-    "Acme Wiki"        = "https://wiki.acme-demo.example"
-    "Acme Ticketing"   = "https://tickets.acme-demo.example"
+    "Acme CRM"         = { url = "https://crm.acme-demo.example",     logo = "acme-crm.png" }
+    "Acme HR Portal"   = { url = "https://hr.acme-demo.example",      logo = "acme-hr-portal.png" }
+    "Acme Finance Hub" = { url = "https://finance.acme-demo.example", logo = "acme-finance-hub.png" }
+    "Acme Wiki"        = { url = "https://wiki.acme-demo.example",    logo = "acme-wiki.png" }
+    "Acme Ticketing"   = { url = "https://tickets.acme-demo.example", logo = "acme-ticketing.png" }
   }
 }
 
 resource "okta_app_bookmark" "acme" {
   for_each = local.bookmark_apps
 
-  label = each.key
-  url   = each.value
+  label  = each.key
+  url    = each.value.url
+  logo   = "${path.module}/logos/${each.value.logo}"
   status = "ACTIVE"
 }
